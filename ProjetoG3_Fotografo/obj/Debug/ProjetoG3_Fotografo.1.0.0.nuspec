@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ProjetoG3_Fotografo</id>
+    <version>1.0.0</version>
+    <authors>ProjetoG3_Fotografo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Google.Apis.Calendar.v3" version="1.63.0.3171" exclude="Build,Analyzers" />
+        <dependency id="Google.Apis.Drive.v3" version="1.64.0.3155" exclude="Build,Analyzers" />
+        <dependency id="Guna.UI2.WinForms" version="2.0.4.5" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json" target="lib\net6.0-windows7.0\ProjetoG3_Fotografo.runtimeconfig.json" />
+    <file src="C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll" target="lib\net6.0-windows7.0\ProjetoG3_Fotografo.dll" />
+  </files>
+</package>

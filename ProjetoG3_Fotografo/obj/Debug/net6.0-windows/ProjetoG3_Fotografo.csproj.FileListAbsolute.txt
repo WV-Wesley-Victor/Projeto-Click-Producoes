@@ -1,0 +1,589 @@
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\rafael.goliveira30\OneDrive - SENAC - SP\Documentos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Calendario.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriacaoEventos.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarAlbum.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\rafael.goliveira30\Downloads\github\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Calendario.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriacaoEventos.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarAlbum.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\rafael.goliveira30\source\repos\Nova pasta\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Calendario.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriacaoEventos.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarAlbum.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+D:\Visual Studio\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\GitHub\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\matheus.glima16\Downloads\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento3.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\matheus.glima16\source\repos\testetete\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\matheus.glima16\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento3.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\wesley.vpsilva\source\repos\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento3.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Album.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AtualizarAlbum.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarAlbum.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CadastrarCliente.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Cliente.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Configuracao.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.CriarEvento2.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento2.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Evento3.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.EventoCalendario.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Eventos.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Funcionario.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Login.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.Properties.Resources.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.RecadastrarSenha.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlCampos.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.UserControlDias.resources
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.GenerateResource.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.csproj.CopyComplete
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\refint\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ProjetoG3_Fotografo.genruntimeconfig.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\ProjetoG3_Fotografo\obj\Debug\net6.0-windows\ref\ProjetoG3_Fotografo.dll

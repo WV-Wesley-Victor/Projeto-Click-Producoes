@@ -1,0 +1,92 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+}
+
+.sobre {
+    overflow: hidden;
+}
+
+.titulo h1 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.campoSobre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: 40px auto;
+}
+
+.textoSobre {
+    flex: 1;
+    width: 600px;
+    margin: auto;
+}
+
+    .textoSobre h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .textoSobre p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-right: 35px;
+        margin-bottom: 40px;
+        color: #666;
+    }
+
+.imagem {
+    flex: 1;
+    width: 600px;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 950px) {
+    .titulo h1 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+
+    .sobre {
+        margin: 0px;
+    }
+
+    .campoSobre {
+        flex-direction: column;
+    }
+
+    .textoSobre {
+        width: 100%;
+        margin: 10px 0px;
+    }
+
+        .textoSobre h2 {
+            font-size: 24px;
+        }
+
+        .textoSobre p {
+            font-size: 16px;
+        }
+
+    .imagem {
+        width: 100%;
+    }
+}

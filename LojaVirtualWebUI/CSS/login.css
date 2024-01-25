@@ -1,0 +1,174 @@
+﻿@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+* {
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.titulo-login {
+    font-weight: bold;
+    font-size: 60px;
+    color: white;
+}
+
+.centro {
+    height: 100vh;
+    display: flex;
+    background-image: linear-gradient(to bottom, rgba(41, 41, 41, 0.37), rgba(0, 0, 0, 0)), url("pexels-asad-photo-maldives-1024993.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.left-side {
+    width: 60vw;
+    position: relative;
+}
+
+.right-side {
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(5px);
+    flex-direction: column;
+}
+
+.welcome-lines {
+    text-align: center;
+}
+
+.welcome-line-2 {
+    color: white;
+    margin-top: 17px;
+}
+
+.input-area {
+    margin-top: 30px;
+}
+
+.form-inp {
+    padding: 11px 25px;
+    outline: 1px solid white;
+    line-height: 1;
+    border-radius: 8px;
+}
+
+    .form-inp:hover {
+        outline: 2px solid white;
+    }
+
+    .form-inp:first-child {
+        margin-bottom: 15px;
+    }
+
+    .form-inp input {
+        width: 100%;
+        background: none;
+        font-size: 16px;
+        color: white;
+        border: none;
+    }
+
+        .form-inp input:focus {
+            outline: none;
+        }
+
+.buttonLogin {
+    width: 11em;
+    height: 3em;
+    border-radius: 8px;
+    border: none;
+    transition: background-color 0.3s ease;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+    .buttonLogin:hover {
+        background-color: transparent;
+        border: 1px solid white;
+        color: white;
+    }
+
+.ContentPlaceHolder1_LblResposta {
+    color: white;
+    font-size: 16px;
+}
+
+.div-btn {
+    display: flex;
+    justify-content: center;
+}
+
+.txtPassword::placeholder {
+    color: rgb(206, 205, 205);
+}
+
+.txtEmail::placeholder {
+    color: rgb(206, 205, 205);
+}
+
+@media screen and (max-width: 850px) {
+    .right-side {
+        width: 60vw;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .right-side {
+        width: 70vw;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .right-side {
+        width: 80vw;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .right-side {
+        width: 100vw;
+    }
+
+    .left-side {
+        width: auto;
+    }
+}
+
+.btn-voltar {
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    background-image: url(arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: none;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 1;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+    .btn-voltar:hover {
+        transform: scale(1.1);
+    }
+
+#ContentPlaceHolder1_LblResposta {
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    display: block;
+    margin-top: 25px;
+}
+
+.LblResposta{
+    height:50px;
+}

@@ -1,0 +1,92 @@
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.exe
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.deps.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.runtimeconfig.json
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.pdb
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.CodeDom.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CopyComplete
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\refint\Projeto.test.dll
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.pdb
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.genruntimeconfig.cache
+C:\Users\wesley.vpsilva\Documents\GitHub\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\ref\Projeto.test.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.deps.json
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.runtimeconfig.json
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.exe
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.exe
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.deps.json
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.runtimeconfig.json
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Projeto.test.pdb
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Calendar.v3.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Google.Apis.Drive.v3.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.CodeDom.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\System.Management.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\bin\Debug\net6.0-windows\ProjetoG3_Fotografo.pdb
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.AssemblyReference.cache
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfoInputs.cache
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfo.cs
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CoreCompileInputs.cache
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CopyComplete
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\refint\Projeto.test.dll
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.pdb
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.genruntimeconfig.cache
+D:\Visual Studio\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\ref\Projeto.test.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.AssemblyReference.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfoInputs.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfo.cs
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CoreCompileInputs.cache
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\refint\Projeto.test.dll
+C:\Users\rafael.goliveira30\source\repos\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.pdb
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.AssemblyReference.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfoInputs.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.AssemblyInfo.cs
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.csproj.CoreCompileInputs.cache
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\refint\Projeto.test.dll
+C:\Users\wesley.vpsilva\source\repos\Projeto\ProjetoG3\Projeto.test\obj\Debug\net6.0-windows\Projeto.test.pdb

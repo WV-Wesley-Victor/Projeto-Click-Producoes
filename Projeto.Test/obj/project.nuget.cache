@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7f2kgATQ8hXdYSEyho37/tJizu36/3rFcls5rLyw5S/PyegmX33Bl/PswnDhq4+xNRE7xPAShDd9kWZLwH+3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\Projeto.test\\Projeto.test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis.core\\1.64.0\\google.apis.core.1.64.0.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis.drive.v3\\1.64.0.3155\\google.apis.drive.v3.1.64.0.3155.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.5\\guna.ui2.winforms.2.0.4.5.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
