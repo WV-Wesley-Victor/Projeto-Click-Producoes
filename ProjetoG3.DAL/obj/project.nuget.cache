@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWWaXvIQFyVQrGkJkG7WNk3M2mZpeuJmJmwy5BMBlqQDirPmgWOhRIkGVy2hfM6aiLIn3vs1G+0OyAM3azBJvA==",
+  "dgSpecHash": "B03fUwBQdRX5gAQ7tzXPHv0vI7t/hIcgtxtXHh/og7ST12oU8d23tbdduzU9KU9tgafC+XfhDzP4y/9S2DsPcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
+  "projectFilePath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis\\1.64.0\\google.apis.1.64.0.nupkg.sha512",
     "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\google.apis.auth\\1.64.0\\google.apis.auth.1.64.0.nupkg.sha512",
