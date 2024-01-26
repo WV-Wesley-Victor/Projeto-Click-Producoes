@@ -1,0 +1,44 @@
+CREATE TABLE Administrador 
+( 
+ IdAdministrador INT PRIMARY KEY AUTO_INCREMENT,  
+ NomeAdministrador VARCHAR(50) NOT NULL,  
+ Senha VARCHAR(20) NOT NULL,  
+ Email VARCHAR(50) NOT NULL,  
+ Telefone VARCHAR(20) NOT NULL,  
+ DataHoraCadastro DATETIME NOT NULL,  
+); 
+
+CREATE TABLE Album 
+( 
+ IdAlbum INT PRIMARY KEY AUTO_INCREMENT,  
+ NomeAlbum VARCHAR(50) NOT NULL,  
+ Descricao VARCHAR(100) NOT NULL,  
+ DataHoraCadastro DATETIME NOT NULL,  
+ FkCliente INT,  
+); 
+
+CREATE TABLE Cliente 
+( 
+ IdUsuario INT PRIMARY KEY AUTO_INCREMENT,  
+ NomeDoCliente VARCHAR(100) NOT NULL,  
+ Senha VARCHAR(50) NOT NULL,  
+ RG VARCHAR(50) NOT NULL,  
+ CPF VARCHAR(50) NOT NULL,  
+ Endereco VARCHAR(100) NOT NULL,  
+ Telefone VARCHAR(20) NOT NULL,  
+ Email VARCHAR(100) NOT NULL,  
+ DataHoraCadastro DATETIME NOT NULL,  
+); 
+
+CREATE TABLE Evento 
+( 
+ IdEvento INT PRIMARY KEY AUTO_INCREMENT,  
+ TipoEvento VARCHAR(50) NOT NULL,  
+ Evento VARCHAR(200) NOT NULL,  
+ Descricao VARCHAR(250) NOT NULL,  
+ Horario VARCHAR(20) NOT NULL,  
+ DataCalendario VARCHAR(50) NOT NULL,  
+ dataCriacao DATETIME NOT NULL,  
+); 
+
+ALTER TABLE Album ADD FOREIGN KEY(FkCliente) REFERENCES Cliente (FkCliente)

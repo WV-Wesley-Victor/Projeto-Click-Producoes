@@ -22,7 +22,7 @@
     <form id="form1" runat="server">
     <header>
         <div id="fundo-topo">
-            <div id="img-topo" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('imagem/img-alianca.jpg'); background-position: center; background-size: cover; background-repeat: no-repeat;">
+            <div id="img-topo" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('imagem/Foto-casal4.jpg'); background-position: center; background-size: cover; background-repeat: no-repeat;">
                 <div class="centro">
                     <div class="header">
                         <div class="logo">
