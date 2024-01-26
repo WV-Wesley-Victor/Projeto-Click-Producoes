@@ -811,11 +811,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3_Fotografo\\ProjetoG3_Fotografo.csproj",
+      "projectUniqueName": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3_Fotografo\\ProjetoG3_Fotografo.csproj",
       "projectName": "ProjetoG3_Fotografo",
-      "projectPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3_Fotografo\\ProjetoG3_Fotografo.csproj",
+      "projectPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3_Fotografo\\ProjetoG3_Fotografo.csproj",
       "packagesPath": "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3_Fotografo\\obj\\",
+      "outputPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3_Fotografo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
