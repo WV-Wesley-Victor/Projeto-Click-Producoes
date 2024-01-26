@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj": {}
+    "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj": {
+    "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
         "projectName": "ProjetoG3.DAL",
-        "projectPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
+        "projectPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\ProjetoG3.DAL.csproj",
         "packagesPath": "C:\\Users\\wesley.vpsilva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Github\\Projeto-Click-Producoes\\ProjetoG3.DAL\\obj\\",
+        "outputPath": "C:\\Users\\wesley.vpsilva\\source\\repos\\Projeto Click Produções\\ProjetoG3\\ProjetoG3.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

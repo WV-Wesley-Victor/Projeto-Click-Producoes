@@ -15,14 +15,14 @@
     <link rel="stylesheet" type="text/css"
         href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-    <script src="script.js"></script>
+    <script src="script12.js"></script>
 </head>
 
 <body>
     <form id="form1" runat="server">
     <header>
         <div id="fundo-topo">
-            <div id="img-topo">
+            <div id="img-topo" style="background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url('imagem/img-alianca.jpg'); background-position: center; background-size: cover; background-repeat: no-repeat;">
                 <div class="centro">
                     <div class="header">
                         <div class="logo">
@@ -69,7 +69,6 @@
             <div id="imagem2" class="img-galeria"></div>
             <div id="imagem3" class="img-galeria"></div>
             <div id="imagem4" class="img-galeria"></div>
-            <div id="imagem5" class="img-galeria"></div>
             <div id="botao-galeria">
                 <a id="btn-ver-mais" href="Portfolio.aspx"><span>Ver mais</span></a>
             </div>
@@ -84,7 +83,7 @@
                     <p class="subtitle">Click Produções</p>
                 </div>
                 <div class="card-back">
-                    <p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="texto">Capture a Magia do Seu Casamento com Nossos Serviços Exclusivos de Drone Fotográfico.</p>
                 </div>
             </div>
             <div id="card2" class="card-servicos">
@@ -93,7 +92,7 @@
                     <p class="subtitle">Click Produções</p>
                 </div>
                 <div class="card-back">
-                    <p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="texto">Transforme Seu Casamento em um Filme Inesquecível com Nossos Serviços de Filmagem Profissional.</p>
                 </div>
             </div>
             <div id="card3" class="card-servicos">
@@ -102,7 +101,7 @@
                     <p class="subtitle">Click Produções</p>
                 </div>
                 <div class="card-back">
-                    <p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="texto">Memorize Seu Casamento Através das Lentes de Nosso Fotógrafo Especializado.</p>
                 </div>
             </div>
             <div id="card4" class="card-servicos">
@@ -111,7 +110,7 @@
                     <p class="subtitle">Click Produções</p>
                 </div>
                 <div class="card-back">
-                    <p class="texto">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p class="texto">Explore Cada Ângulo do Seu Casamento com Nossa Plataforma 360° Exclusiva.</p>
                 </div>
             </div>
         </div>
@@ -202,7 +201,7 @@
         }
 
         window.addEventListener("scroll", toggleButtonDisplay);
-    </script>
+    </script>>
 </body>
 
 </html>

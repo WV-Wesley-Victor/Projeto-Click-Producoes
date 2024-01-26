@@ -42,7 +42,7 @@ namespace LojaVirtualWebUI
 
                 usuario.NomeAlbum = nomeAlbum;
                 Session["ClienteAlbum"] = usuario.NomeAlbum;
-                Response.Redirect("Default.aspx");
+                Response.Redirect("Portfolio.aspx");
             }
         }
 

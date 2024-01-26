@@ -183,6 +183,8 @@
     <Content Include="imagens\Foto-casal1.jpg" />
     <Content Include="imagens\Foto-casal2.jpg" />
     <Content Include="imagens\Foto-casal3.jpg" />
+    <Content Include="imagens\Foto-casal4.jpg" />
+    <Content Include="imagens\Foto-casal5.JPG" />
     <Content Include="imagens\img-alianca.jpg" />
     <Content Include="imagens\logo-branca.png" />
     <Content Include="imagens\logo-preta.png" />
@@ -191,12 +193,13 @@
     <Content Include="Click.Master" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="CSS\pexels-asad-photo-maldives-1024993.jpg" />
+    <Content Include="imagens\script12.js" />
     <Content Include="JavaScript.js" />
     <Content Include="Login.aspx" />
     <Content Include="CSS\login.css" />
     <Content Include="Javascript\login.js" />
     <Content Include="Portfolio.aspx" />
-    <Content Include="script.js" />
+    <Content Include="script12.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />

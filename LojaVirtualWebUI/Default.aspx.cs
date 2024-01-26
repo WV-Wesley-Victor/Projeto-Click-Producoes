@@ -28,7 +28,7 @@ namespace LojaVirtualWebUI
                 Session["ClienteId"] = null;
                 Session["ClienteAlbum"] = null;
                 btnLogin.Text = "Login";
-                Response.Redirect("Portfolio.aspx");
+                Response.Redirect("Default.aspx");
             }
             else
             {
