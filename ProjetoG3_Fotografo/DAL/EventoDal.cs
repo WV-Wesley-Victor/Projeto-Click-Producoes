@@ -21,7 +21,7 @@ namespace ProjetoG3_Fotografo.DAL
     }
     public class EventoDal
     {
-        string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjetoG3;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        string connString = @"Data Source=FAC0539680W10-1;Initial Catalog=ProjetoG3;User ID=sa;Password=123456;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
         string connCasa = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=ProjetoG3;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False;\r\n";
         public void CriarEvento(string Tipo,string evento,string hora, string desc, string Data)
         {

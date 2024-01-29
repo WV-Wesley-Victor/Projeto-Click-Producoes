@@ -10,11 +10,11 @@ namespace ProjetoG3_Fotografo.DAL
     public class ClienteDAL
 
     {
-        string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjetoG3;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+        string connString = @"Data Source=FAC0539680W10-1;Initial Catalog=ProjetoG3;User ID=sa;Password=123456;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
 
         public void CadastrarCliente(string nome, string senha, string rg, string cpf, string endereco, string telefone, string email)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjetoG3;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            SqlConnection conn = new SqlConnection(@"Data Source=FAC0539680W10-1;Initial Catalog=ProjetoG3;User ID=sa;Password=123456;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             conn.Open();
 
             SqlCommand cmd = new SqlCommand("insert into Cliente values ('"+nome+"', '"+senha+"', '"+rg+"', '"+cpf+"', '"+endereco+"', '"+telefone+"', '"+email+"', GETDATE())", conn);
@@ -23,7 +23,7 @@ namespace ProjetoG3_Fotografo.DAL
         }
         public void AtualizarCliente(string nome, string senha, string rg, string cpf, string endereco, string telefone, string email)
         {
-            SqlConnection conn = new SqlConnection(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=ProjetoG3;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            SqlConnection conn = new SqlConnection(@"Data Source=FAC0539680W10-1;Initial Catalog=ProjetoG3;User ID=sa;Password=123456;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
             conn.Open();
 
             SqlCommand cmd = new SqlCommand("UPDATE Cliente SET NomeDoCliente = '" + nome + "', Senha = '" + senha + "', RG = '" + rg + "', CPF = '" + cpf + "', Endereco = '" + endereco + "', Telefone = '" + telefone + "', Email = '" + email + "'", conn);
