@@ -7,7 +7,7 @@ Bem-vindo ao repositório do Projeto Click Produções Desktop - Aplicativo de �
   
 </div>
 <p align="center">
-  <a href="insira_aqui_o_link_para_o_projeto_desktop" target="_blank">Clique aqui para visualizar o repositório do projeto Click Produções.</a>
+  <a href="https://github.com/WV-Wesley-Victor/Projeto-Click-Producoes?tab=readme-ov-file" target="_blank">Clique aqui para visualizar o repositório do projeto Click Produções.</a>
 </p>
 
 ## Descrição do Projeto
