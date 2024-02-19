@@ -1,7 +1,11 @@
 # Projeto Click Produções
 Bem-vindo ao repositório do Projeto Click Produções Desktop - Aplicativo de Álbuns de Fotos de Casamentos. Este projeto é dedicado ao desenvolvimento do aplicativo de desktop para a plataforma Click Produções, oferecendo uma experiência mais robusta e rica para a criação, edição e visualização de álbuns de fotos de casamentos. Aqui, você encontrará informações sobre o desenvolvimento do aplicativo de desktop, funcionalidades destacadas e recursos relacionados ao universo dos casamentos.
 
+<div align="center">
+
 ![tipos-de-album-de-casamento-3](https://github.com/WV-Wesley-Victor/Projeto-Click-Producoes/assets/137107062/dd0684b2-fc3d-4c4e-9cb7-500bf425901c)
+  
+</div>
 <p align="center">
   <a href="insira_aqui_o_link_para_o_projeto_desktop" target="_blank">Clique aqui para visualizar o repositório do projeto Click Produções.</a>
 </p>
